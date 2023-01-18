@@ -14,9 +14,3 @@ sudo apt install python3-dev python3-pip
 
 echo " > sudo pip3 install spidev mfrc522"
 sudo pip3 install spidev mfrc522
-
-echo " > cd $HOME"
-cd $HOME
-
-echo " > git clone $GITHUB_URL"
-git clone $GITHUB_URL
